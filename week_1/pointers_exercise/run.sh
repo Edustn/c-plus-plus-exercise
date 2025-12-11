@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Nome do arquivo fonte (sem extensão)
-FILE="alocacao_dinamica"
+FILE="dinamic_arry"
 
 # Compila
 g++ -std=c++17 -Wall -g "$FILE.cpp" -o "$FILE"
